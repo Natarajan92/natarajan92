@@ -85,8 +85,8 @@ Led design and delivery of a production ML platform for a fintech marketing team
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Natarajan92/natarajan92&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natarajan92/natarajan92&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Natarajan92&show_icons=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natarajan92&layout=compact" />
 </p>
 
 ---
